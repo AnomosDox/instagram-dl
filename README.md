@@ -4,12 +4,6 @@ This is Instagram Downloader Tool coded in Python3. Helps to download Instgram P
 ### Preview:
 ![Screenshot](src/screenshot.png)
 
-## Thanks to:
-- [Palahsu](https://github.com/palahsu)(Designer of the GUI)
-- [AbirHasan2005](https://github.com/AbirHasan2005)(BackEnd Developer )
-- [AmshenShanu07](https://github.com/AmshenShanu07)(FrontEnd Developer)
-
-
 ## Made For:
 - Linux
 - Windows
@@ -50,6 +44,11 @@ This is in development. Could be buggy. If you get any kind of error please repo
 <a href="https://sourceforge.net/projects/instagram-dl/"><img alt="SourceForge" src="https://img.shields.io/sourceforge/dt/instagram-dl?color=blue&label=SourceForge&logo=sourceforge"></a>
 
 </details>
+
+## Thanks to:
+- [Palahsu](https://github.com/palahsu)(Designer of the GUI)
+- [AbirHasan2005](https://github.com/AbirHasan2005)(BackEnd Developer )
+- [AmshenShanu07](https://github.com/AmshenShanu07)(FrontEnd Developer)
 
 #### Telegram Group:
 <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
