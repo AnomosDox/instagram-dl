@@ -18,8 +18,11 @@ This is Instagram Downloader Tool coded in Python3. Helps to download Instgram P
 ## For Desktop Setup💿
 
 Download setup file and install and run on your Desktop:
+
 Download Link:
+
 `(https://sourceforge.net/projects/instagram-dl/)`
+
 (Windows 7,8,10)
 
 ## Setup & Run:
